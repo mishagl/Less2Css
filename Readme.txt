@@ -1,0 +1,1 @@
+Windows service that monitors predefined folder and desendats for created/modified .less files and compiles them into .css
